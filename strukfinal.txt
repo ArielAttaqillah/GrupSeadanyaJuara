@@ -1,0 +1,15 @@
+===== D'Store 25 =====
+--------------------
+Tanggal: 03-01-2025 10:43:57
+--------------------
+Mie Instan            4           Rp 16.000,00
+Roti Tawar            3           Rp 36.000,00
+Pasta Gigi            3           Rp 45.000,00
+Sabun                 2           Rp 40.000,00
+Shampoo               2           Rp 50.000,00
+Minyak Goreng         3           Rp 105.000,00
+Beras 5 Kg            4           Rp 300.000,00
+Diskon: Rp 59.200,00
+Total: Rp 532.800,00
+Kembalian: Rp 67.200,00
+Terima kasih telah berbelanja di D'Store 25
